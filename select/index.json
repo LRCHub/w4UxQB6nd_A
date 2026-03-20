@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "base_track": "GOLD",
+  "base_artist": "PEOPLE 1",
+  "createdAt": "2026-03-20T18:25:39.164570Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Heart Of Gold",
+      "artist": "Neil Young",
+      "has_synced": true,
+      "path": "select/01_Heart_Of_Gold_Neil_Young.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Rock Me Amadeus (The Gold Mix)",
+      "artist": "Falco",
+      "has_synced": true,
+      "path": "select/02_Rock_Me_Amadeus_(The_Gold_Mix)_Falco.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "All the Gold In California",
+      "artist": "Larry Gatlin",
+      "has_synced": true,
+      "path": "select/03_All_the_Gold_In_California_Larry_Gatlin.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "All The Gold In California (Album Version)",
+      "artist": "Larry Gatlin & The Gatlin Brothers",
+      "has_synced": true,
+      "path": "select/04_All_The_Gold_In_California_(Album_Version)_Larry_Gatlin_&_The_Gatlin_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Everything That Glitters (Is Not Gold)",
+      "artist": "Dan Seals",
+      "has_synced": true,
+      "path": "select/05_Everything_That_Glitters_(Is_Not_Gold)_Dan_Seals.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Gold",
+      "artist": "Ashley Monroe",
+      "has_synced": true,
+      "path": "select/06_Gold_Ashley_Monroe.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Gold",
+      "artist": "Dierks Bentley",
+      "has_synced": true,
+      "path": "select/07_Gold_Dierks_Bentley.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Gold Dust Woman",
+      "artist": "Waylon Jennings",
+      "has_synced": false,
+      "path": "select/08_Gold_Dust_Woman_Waylon_Jennings.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Gold Dust Woman (Remastered For Buddha - October 30, 2000)",
+      "artist": "Waylon Jennings",
+      "has_synced": false,
+      "path": "select/09_Gold_Dust_Woman_(Remastered_For_Buddha_-_October_30,_2000)_Waylon_Jennings.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Gold Watch And Chain - Remastered",
+      "artist": "Emmylou Harris",
+      "has_synced": false,
+      "path": "select/10_Gold_Watch_And_Chain_-_Remastered_Emmylou_Harris.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Gold Watch and Chain (2002 Remaster) (Remastered LP Version)",
+      "artist": "Emmylou Harris",
+      "has_synced": false,
+      "path": "select/11_Gold_Watch_and_Chain_(2002_Remaster)_(Remastered_LP_Version)_Emmylou_Harris.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Gold",
+      "artist": "Interference",
+      "has_synced": true,
+      "path": "select/12_Gold_Interference.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "White Gold",
+      "artist": "Ladytron",
+      "has_synced": true,
+      "path": "select/13_White_Gold_Ladytron.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "White Gold (Tarsius Remix)",
+      "artist": "Ladytron",
+      "has_synced": true,
+      "path": "select/14_White_Gold_(Tarsius_Remix)_Ladytron.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Strahlen von Gold / Sohn",
+      "artist": "Prinz Pi",
+      "has_synced": true,
+      "path": "select/15_Strahlen_von_Gold___Sohn_Prinz_Pi.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Strahlen von Gold \u0000 Sohn",
+      "artist": "Prinz Pi",
+      "has_synced": true,
+      "path": "select/16_Strahlen_von_Gold_\u0000_Sohn_Prinz_Pi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "GOLD",
+      "artist": "PEOPLE 1",
+      "has_synced": false,
+      "path": "select/pl_01_GOLD_PEOPLE_1.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "GOLD",
+      "artist": "PEOPLE 1",
+      "has_synced": false,
+      "path": "select/localdb_01_GOLD_PEOPLE_1.txt",
+      "repo_name": "Cnx03FzveUg"
+    }
+  ]
+}
